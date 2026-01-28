@@ -1,4 +1,11 @@
-# Event Management App – Java
+
+# Java Repository
+
+This repository contains my Java work done during coursework, mini projects, and DSA practice.
+
+## 📁 College Mini Projects
+
+# 1.Event Management App – Java
 
 A Java application for managing events, demonstrating object-oriented programming (OOP) concepts and core Java features. The project allows users to add, view, update, and delete events efficiently. This project is suitable for showcasing programming skills on GitHub and for resume portfolios.
 
@@ -45,3 +52,22 @@ The project is designed using a modular class structure and Java collections to 
 git clone https://github.com/sahana-frost6/java-projects/blob/main/EventManagementApp.java
 
 Updated README for Event Management App
+
+## 📚 DSA Practice (Ongoing)
+This section is dedicated to my daily DSA preparation for internships and placements.
+
+### Topics
+- Basics
+- Arrays
+- Strings
+- HashMap
+- Stack
+- Linked List
+
+## 🛠 Tools & Concepts
+- Java
+- Object-Oriented Programming
+- Data Structures & Algorithms
+
+## 🚀 Purpose
+This repository is actively maintained as part of my internship and placement preparation journey.
