@@ -50,25 +50,44 @@ The project is designed using a modular class structure and Java collections to 
 
 ```bash
 git clone https://github.com/sahana-frost6/java-projects/blob/main/EventManagementApp.java
+2.  Open the project in your preferred IDE (VS Code / Eclipse / IntelliJ IDEA)
 
-Updated README for Event Management App
+3.  Compile and run EventManagementApp.java
 
-**## 📚 DSA Practice (Ongoing)**
-This section is dedicated to my daily DSA preparation for internships and placements.
+4.  Follow the menu prompts to interact with the application
+
+## 📚 DSA Practice (Ongoing)
+
+This section is dedicated to my **daily DSA preparation** for internships and placements.
 
 ### Topics
-- Basics
-- Arrays
-- Strings
-- HashMap
-- Stack
-- Linked List
 
-**## 🛠 Tools & Concepts**
-- Java
-- Object-Oriented Programming
-- Data Structures & Algorithms
+The DSA practice covers the following topics:
 
-**## 🚀 Purpose**
-This repository is actively maintained as part of my internship and placement preparation journey.
+- **Basics**  
+  Introduction to Java programming concepts and problem-solving fundamentals.
 
+- **Arrays**  
+  Solving array-related problems including input/output, traversal, search, and basic algorithms.
+
+- **Strings**  
+  Practicing string manipulation, pattern matching, and algorithmic string problems.
+
+- **HashMap**  
+  Understanding key-value storage, usage of HashMap in problem solving, and common interview questions.
+
+- **Stack**  
+  Learning stack operations, implementation, and solving related coding problems.
+
+- **Linked List**  
+  Introduction to singly and doubly linked lists, traversal, insertion, deletion, and problem-solving.
+
+### 🛠 Tools & Concepts
+
+- Java  
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (DSA)  
+
+### 🚀 Purpose
+
+This section of the repository is actively maintained as part of my **journey to become internship and placement-ready**, showcasing consistent **DSA practice** and problem-solving skills.
