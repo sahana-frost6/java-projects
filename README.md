@@ -50,13 +50,14 @@ The project is designed using a **modular class structure** and **Java collectio
 1. **Clone the repository**  
 
 ```bash
-<<<<<<< HEAD
+
 git clone https://github.com/sahana-frost6/java-projects/blob/main/EventManagementApp.java
 2.  Open the project in your preferred IDE (VS Code / Eclipse / IntelliJ IDEA)
 
 3.  Compile and run EventManagementApp.java
 
 4.  Follow the menu prompts to interact with the application
+```
 
 ## 📚 DSA Practice (Ongoing)
 
@@ -93,49 +94,4 @@ The DSA practice covers the following topics:
 ### 🚀 Purpose
 
 This section of the repository is actively maintained as part of my **journey to become internship and placement-ready**, showcasing consistent **DSA practice** and problem-solving skills.
-=======
-git clone https://github.com/sahana-frost6/java-projects.git
-2. **Open the project in your preferred IDE** (VS Code / Eclipse / IntelliJ IDEA)
 
-3. **Compile and run EventManagementApp.java**
-
-3. **Follow the menu prompts to interact with the application**
-```
-📚 DSA Practice (Ongoing)
-
-This section is dedicated to my daily DSA preparation for internships and placements.
-
-Topics
-
-The DSA practice covers the following topics:
-
-Basics
-Introduction to Java programming concepts and problem-solving fundamentals.
-
-Arrays
-Solving array-related problems including input/output, traversal, search, and basic algorithms.
-
-Strings
-Practicing string manipulation, pattern matching, and algorithmic string problems.
-
-HashMap
-Understanding key-value storage, usage of HashMap in problem solving, and common interview questions.
-
-Stack
-Learning stack operations, implementation, and solving related coding problems.
-
-Linked List
-Introduction to singly and doubly linked lists, traversal, insertion, deletion, and problem-solving.
-
-🛠 Tools & Concepts
-
-Java
-
-Object-Oriented Programming (OOP)
-
-Data Structures & Algorithms (DSA)
-
-🚀 Purpose
-
-This repository is actively maintained as part of my journey to become internship and placement-ready, showcasing both mini projects and consistent DSA practice.
->>>>>>> 72b9721 (Update README formatting: Event Management App + DSA sections)
