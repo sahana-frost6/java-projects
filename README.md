@@ -53,7 +53,7 @@ git clone https://github.com/sahana-frost6/java-projects/blob/main/EventManageme
 
 Updated README for Event Management App
 
-## 📚 DSA Practice (Ongoing)
+**## 📚 DSA Practice (Ongoing)**
 This section is dedicated to my daily DSA preparation for internships and placements.
 
 ### Topics
@@ -64,10 +64,11 @@ This section is dedicated to my daily DSA preparation for internships and placem
 - Stack
 - Linked List
 
-## 🛠 Tools & Concepts
+**## 🛠 Tools & Concepts**
 - Java
 - Object-Oriented Programming
 - Data Structures & Algorithms
 
-## 🚀 Purpose
+**## 🚀 Purpose**
 This repository is actively maintained as part of my internship and placement preparation journey.
+
