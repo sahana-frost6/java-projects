@@ -52,12 +52,14 @@ The project is designed using a **modular class structure** and **Java collectio
 ```bash
 
 git clone https://github.com/sahana-frost6/java-projects/blob/main/EventManagementApp.java
+```
+
 2.  Open the project in your preferred IDE (VS Code / Eclipse / IntelliJ IDEA)
 
 3.  Compile and run EventManagementApp.java
 
 4.  Follow the menu prompts to interact with the application
-```
+
 
 ## 📚 DSA Practice (Ongoing)
 
@@ -94,4 +96,5 @@ The DSA practice covers the following topics:
 ### 🚀 Purpose
 
 This section of the repository is actively maintained as part of my **journey to become internship and placement-ready**, showcasing consistent **DSA practice** and problem-solving skills.
+
 
